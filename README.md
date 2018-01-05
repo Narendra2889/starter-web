@@ -10,6 +10,10 @@ This is a sample project to show different parts of git repository and various c
 
 ## Purpose 
 
+The main purpose is to provide simple examples for Git Training....
+
 ## Deployment
+
+This is web development project we can run on any server........
 
 ## How To Contribute

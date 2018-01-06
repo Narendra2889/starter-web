@@ -17,3 +17,7 @@ The main purpose is to provide simple examples for Git Training....
 This is web development project we can run on any server........
 
 ## How To Contribute
+
+### Copy Right
+
+2014 Git training

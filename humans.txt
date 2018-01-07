@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to Jason taylor for the training 
 
 # TECHNOLOGY COLOPHON
 

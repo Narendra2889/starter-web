@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to Jason taylor for the training 
+	Please review the course.
 
 # TECHNOLOGY COLOPHON
 
